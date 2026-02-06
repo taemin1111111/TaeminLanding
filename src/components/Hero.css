@@ -1,0 +1,341 @@
+.hero-section {
+  width: 100%;
+  background-color: #0f1117;
+  color: #ffffff;
+  padding: 0;
+  margin-bottom: 200px;
+}
+
+.hero-container {
+  max-width: 1920px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.hero-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0;
+  padding: 300px 0;
+  max-width: 984px;
+  margin: 0 auto;
+}
+
+.profile-image-wrapper {
+  flex: 0 0 auto;
+}
+
+.profile-image {
+  width: 470px;
+  height: 470px;
+  border-radius: 235px;
+  overflow: hidden;
+  background-color: #18181A;
+}
+
+.profile-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 235px;
+}
+
+.profile-placeholder {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  color: #ffffff;
+}
+
+.hero-text {
+  flex: 1;
+  padding-left: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.hero-text-container {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.hero-greeting {
+  font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: -0.45px;
+  line-height: 25.2px;
+  color: rgb(209, 213, 219);
+  margin: 0;
+}
+
+.hero-title {
+  font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 60px;
+  font-weight: 700;
+  font-style: normal;
+  letter-spacing: -1.5px;
+  line-height: 84px;
+  color: rgb(248, 250, 252);
+  margin: 0;
+}
+
+.hero-description {
+  font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  font-style: normal;
+  letter-spacing: -0.6px;
+  line-height: 33.6px;
+  color: rgb(209, 213, 219);
+  margin: 0;
+}
+
+.hero-description .mobile-only {
+  display: none; /* 데스크톱에서는 숨김 */
+}
+
+.hero-buttons {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+  margin-top: 0;
+}
+
+.hero-button {
+  font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  font-style: normal;
+  letter-spacing: -0.4px;
+  line-height: 22.4px;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  padding: 12px 25px;
+  border: none;
+}
+
+.hero-button.primary {
+  background-color: rgb(60, 135, 224);
+  color: rgb(209, 213, 219);
+  border: 1px solid rgba(30, 41, 59, 1);
+}
+
+.hero-button.primary:hover {
+  opacity: 0.9;
+  transform: translateY(-2px);
+}
+
+.hero-button.secondary {
+  background-color: transparent;
+  color: rgb(209, 213, 219);
+  border: 1px solid rgba(30, 41, 59, 1);
+}
+
+.hero-button.secondary:hover {
+  background-color: rgba(30, 41, 59, 0.2);
+  transform: translateY(-2px);
+}
+
+.hero-button:active {
+  transform: translateY(0);
+}
+
+@media (max-width: 768px) {
+  .hero-section {
+    padding: 60px 16px 60px;
+  }
+
+  .hero-content {
+    flex-direction: column;
+    text-align: left;
+    align-items: center;
+    gap: 40px;
+    padding: 0;
+  }
+
+  .profile-image-wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+
+  .profile-image {
+    width: 150px;
+    height: 150px;
+  }
+
+  .profile-placeholder {
+    font-size: 36px;
+  }
+
+  .hero-title {
+    font-size: 36px;
+    line-height: 1.0 !important; /* 줄바꿈 간격 최소화 */
+  }
+
+  .hero-title br {
+    line-height: 0;
+    display: block;
+    margin: 0;
+    height: 0;
+  }
+
+  .hero-description {
+    font-size: 16px;
+    line-height: 1.0 !important; /* 줄바꿈 간격 최소화 */
+  }
+
+  .hero-description .mobile-only {
+    display: block; /* 모바일에서만 표시 */
+    line-height: 0;
+    margin: 0;
+    height: 0;
+  }
+
+  .hero-text {
+    min-width: 100%;
+    padding-left: 0;
+    align-items: flex-start;
+  }
+
+  .hero-greeting,
+  .hero-title,
+  .hero-description {
+    text-align: left;
+  }
+}
+
+@media (max-width: 375px) {
+  .hero-section {
+    margin-bottom: 120px;
+    padding: 0 20px;
+  }
+
+  .hero-container {
+    max-width: 100%;
+  }
+
+  .hero-content {
+    flex-direction: column;
+    padding: 0;
+    gap: 24px;
+    text-align: left;
+    align-items: center;
+    max-width: 100%;
+  }
+
+  .profile-image-wrapper {
+    align-self: center;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0;
+  }
+
+  .profile-image {
+    width: 200px;
+    height: 200px;
+    aspect-ratio: 1/1;
+    border-radius: 100px;
+    background-color: #18181A;
+    overflow: hidden;
+  }
+
+  .profile-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 100px;
+  }
+
+  .hero-text {
+    width: 100%;
+    padding-left: 0;
+    align-items: flex-start;
+    gap: 16px; /* 간격 축소 */
+  }
+
+  .hero-text-container {
+    gap: 8px; /* 간격 축소 */
+    width: 100%;
+  }
+
+  .hero-greeting {
+    font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, sans-serif;
+    font-size: 16px; /* Figma: 16px */
+    font-weight: 400;
+    font-style: normal;
+    line-height: 22.4px; /* Figma: 22.4px */
+    letter-spacing: -0.4px; /* Figma: -0.4px */
+    color: rgb(161, 161, 170);
+    margin: 0;
+    align-self: stretch;
+  }
+
+  .hero-title {
+    font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, sans-serif;
+    font-size: 20px; /* Figma: 20px */
+    font-weight: 600;
+    font-style: normal;
+    line-height: 1.0 !important; /* 이미지에 맞게 줄바꿈 간격 최소화 */
+    letter-spacing: -0.5px; /* Figma: -0.5px */
+    color: #F8FAFC;
+    margin: 0;
+    padding: 0;
+    align-self: stretch;
+  }
+
+  .hero-title br {
+    line-height: 0;
+    display: block;
+    margin: 0;
+    height: 0;
+  }
+  .hero-description {
+    font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, sans-serif;
+    font-size: 14px; /* Figma: 14px */
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1.0 !important; /* 줄바꿈 간격 최소화 */
+    letter-spacing: -0.35px; /* Figma: -0.35px */
+    color: rgb(161, 161, 170);
+    margin: 0;
+    align-self: stretch;
+  }
+
+  .hero-description .mobile-only {
+    display: block; /* 모바일에서만 표시 */
+    line-height: 0;
+    margin: 0;
+    height: 0;
+  }
+
+  .hero-buttons {
+    flex-direction: row;
+    width: 100%;
+    gap: 12px;
+    justify-content: flex-start;
+    margin-top: 0;
+  }
+
+  .hero-button {
+    flex: 1;
+    font-size: 12px; /* Figma: 12px */
+    font-weight: 600;
+    line-height: 16.8px; /* Figma: 16.8px */
+    letter-spacing: -0.3px; /* Figma: -0.3px */
+    padding: 18px 14px;
+    border-radius: 12px;
+  }
+}

@@ -1,0 +1,75 @@
+.projects-section {
+  padding: 40px 0;
+  background-color: #0f1117;
+  color: #ffffff;
+  width: 100%;
+  margin-bottom: 200px;
+}
+
+.projects-container {
+  max-width: 1024px;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+.section-title {
+  font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 36px;
+  font-weight: 600;
+  font-style: normal;
+  letter-spacing: -0.9px;
+  line-height: 50.4px;
+  color: rgb(248, 250, 252);
+  margin: 0 0 100px 0;
+  text-align: left;
+}
+
+.projects-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 48px;
+}
+
+@media (max-width: 1024px) {
+  .projects-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .projects-section {
+    padding: 80px 16px;
+  }
+
+  .section-title {
+    font-size: 28px;
+    margin-bottom: 32px;
+  }
+
+  .projects-grid {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+}
+
+@media (max-width: 375px) {
+  .projects-section {
+    margin-bottom: 120px;
+    padding: 0 20px;
+  }
+
+  .projects-container {
+    padding: 0;
+  }
+
+  .section-title {
+    font-size: 24px;
+    line-height: 33.6px;
+    letter-spacing: -0.6px;
+    margin-bottom: 20px;
+  }
+
+  .projects-grid {
+    gap: 20px;
+  }
+}

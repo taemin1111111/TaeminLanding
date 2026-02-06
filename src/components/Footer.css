@@ -1,0 +1,92 @@
+.footer {
+  width: 100%;
+  background-color: #0f1117;
+  border-top: 1px solid rgba(30, 41, 59, 1);
+  padding: 20px 0;
+}
+
+.footer-container {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+.footer-content {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.footer-text {
+  font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, sans-serif;
+  color: rgb(161, 161, 170);
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: -0.4px;
+  line-height: 22.4px;
+  text-align: left;
+  margin: 0;
+}
+
+/* Copyright 섹션 */
+.footer-section {
+  width: 100%;
+  background-color: #0f1117;
+}
+
+.footer-section-divider {
+  width: 100%;
+  height: 1px;
+  background-color: rgba(30, 41, 59, 1);
+  margin: 0;
+}
+
+.footer-section-container {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 20px 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer-copyright {
+  font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, sans-serif;
+  color: rgb(161, 161, 170);
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: -0.4px;
+  line-height: 22.4px;
+  text-align: left;
+  margin: 0;
+}
+
+.footer-rights {
+  font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, sans-serif;
+  color: rgb(161, 161, 170);
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: -0.35px;
+  line-height: 19.6px;
+  text-align: left;
+  margin: 0;
+}
+
+@media (max-width: 375px) {
+  .footer-section-container {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 20px;
+  }
+
+  .footer-copyright {
+    font-size: 14px;
+    line-height: 19.6px;
+  }
+
+  .footer-rights {
+    font-size: 12px;
+    line-height: 16.8px;
+  }
+}

@@ -1,0 +1,103 @@
+﻿{
+    "name":  "노빌더 교육생 테스트",
+    "lastModified":  "2026-02-02T05:12:32Z",
+    "thumbnailUrl":  "https://s3-alpha.figma.com/thumbnails/4e644a39-b0f6-4854-872d-45e230321947?X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIAQ4GOSFWCVL7S5WWH%2F20260201%2Fus-west-2%2Fs3%2Faws4_request\u0026X-Amz-Date=20260201T120000Z\u0026X-Amz-Expires=604800\u0026X-Amz-SignedHeaders=host\u0026X-Amz-Signature=e7db69ef5542efdfac6a08e77642797880e328be0e524f97bd5eea5657eb5e8e",
+    "version":  "2315822335661631976",
+    "role":  "viewer",
+    "editorType":  "figma",
+    "linkAccess":  "inherit",
+    "nodes":  {
+                  "1479:3255":  {
+                                    "document":  {
+                                                     "id":  "1479:3255",
+                                                     "name":  "aiony-haust-3TLl_97HNJo-unsplash 1",
+                                                     "type":  "RECTANGLE",
+                                                     "scrollBehavior":  "SCROLLS",
+                                                     "blendMode":  "PASS_THROUGH",
+                                                     "fills":  [
+                                                                   {
+                                                                       "blendMode":  "NORMAL",
+                                                                       "visible":  false,
+                                                                       "type":  "IMAGE",
+                                                                       "scaleMode":  "FILL",
+                                                                       "imageRef":  "f4ae973bd89f7c7d69965cbb2555540eaa83b724"
+                                                                   },
+                                                                   {
+                                                                       "blendMode":  "NORMAL",
+                                                                       "type":  "SOLID",
+                                                                       "color":  {
+                                                                                     "r":  0.094117648899555206,
+                                                                                     "g":  0.094117648899555206,
+                                                                                     "b":  0.10196078568696976,
+                                                                                     "a":  1.0
+                                                                                 }
+                                                                   },
+                                                                   {
+                                                                       "blendMode":  "NORMAL",
+                                                                       "type":  "IMAGE",
+                                                                       "scaleMode":  "STRETCH",
+                                                                       "imageRef":  "694dc249f8cae73c774b2287d0e008762cb29312",
+                                                                       "imageTransform":  [
+                                                                                              [
+                                                                                                  1.0,
+                                                                                                  0.0,
+                                                                                                  0.0
+                                                                                              ],
+                                                                                              [
+                                                                                                  0.0,
+                                                                                                  1.0,
+                                                                                                  0.0
+                                                                                              ]
+                                                                                          ]
+                                                                   }
+                                                               ],
+                                                     "strokes":  [
+
+                                                                 ],
+                                                     "strokeWeight":  1.0,
+                                                     "strokeAlign":  "INSIDE",
+                                                     "cornerRadius":  235.0,
+                                                     "cornerSmoothing":  0.0,
+                                                     "absoluteBoundingBox":  {
+                                                                                 "x":  -5229.970214843750,
+                                                                                 "y":  -11422.0,
+                                                                                 "width":  470.0,
+                                                                                 "height":  470.0
+                                                                             },
+                                                     "absoluteRenderBounds":  {
+                                                                                  "x":  -5229.970214843750,
+                                                                                  "y":  -11422.0,
+                                                                                  "width":  470.0,
+                                                                                  "height":  470.0
+                                                                              },
+                                                     "constraints":  {
+                                                                         "vertical":  "TOP",
+                                                                         "horizontal":  "LEFT"
+                                                                     },
+                                                     "layoutAlign":  "INHERIT",
+                                                     "layoutGrow":  0.0,
+                                                     "layoutSizingHorizontal":  "FIXED",
+                                                     "layoutSizingVertical":  "FIXED",
+                                                     "effects":  [
+
+                                                                 ],
+                                                     "interactions":  [
+
+                                                                      ],
+                                                     "complexStrokeProperties":  {
+                                                                                     "strokeType":  "BASIC"
+                                                                                 }
+                                                 },
+                                    "components":  {
+
+                                                   },
+                                    "componentSets":  {
+
+                                                      },
+                                    "schemaVersion":  0,
+                                    "styles":  {
+
+                                               }
+                                }
+              }
+}

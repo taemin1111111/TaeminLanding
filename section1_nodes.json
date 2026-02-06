@@ -1,0 +1,65 @@
+﻿{
+    "name":  "노빌더 교육생 테스트",
+    "lastModified":  "2026-02-02T05:12:32Z",
+    "thumbnailUrl":  "https://s3-alpha.figma.com/thumbnails/4e644a39-b0f6-4854-872d-45e230321947?X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIAQ4GOSFWCV44OTG5P%2F20260201%2Fus-west-2%2Fs3%2Faws4_request\u0026X-Amz-Date=20260201T120000Z\u0026X-Amz-Expires=604800\u0026X-Amz-SignedHeaders=host\u0026X-Amz-Signature=f181424f7453def4d9fa927bf9141579ac1cce526a3451c53728420f0a74b924",
+    "version":  "2315822335661631976",
+    "role":  "viewer",
+    "editorType":  "figma",
+    "linkAccess":  "inherit",
+    "nodes":  {
+                  "2:9449":  {
+                                 "document":  {
+                                                  "id":  "2:9449",
+                                                  "name":  "Section 1",
+                                                  "type":  "SECTION",
+                                                  "scrollBehavior":  "SCROLLS",
+                                                  "children":  "      ",
+                                                  "fills":  "",
+                                                  "strokes":  "",
+                                                  "strokeWeight":  1.0,
+                                                  "strokeAlign":  "INSIDE",
+                                                  "absoluteBoundingBox":  "@{x=-6969.0; y=-12571.0; width=7301.0; height=6605.0}",
+                                                  "absoluteRenderBounds":  "@{x=-6969.0; y=-12571.0; width=7301.0; height=6605.0}",
+                                                  "sectionContentsHidden":  false,
+                                                  "devStatus":  "@{type=READY_FOR_DEV; description=}"
+                                              },
+                                 "components":  {
+
+                                                },
+                                 "componentSets":  {
+
+                                                   },
+                                 "schemaVersion":  0,
+                                 "styles":  {
+                                                "1479:2885":  "@{key=1113ad037ef6dbb7a533b605b6327f9e6cbaef52; name=www.mirrorfolio.com/Mirage; styleType=FILL; remote=True; description=}",
+                                                "1479:2877":  "@{key=d7f1af9f01981819cbd4c5aa4e73acd35dacd1c6; name=www.mirrorfolio.com/Santas Gray; styleType=FILL; remote=True; description=}",
+                                                "1229:45236":  "@{key=123da0da8dadf73e17e69a568b49ad3db770cb32; name=Pretendard-r-16; styleType=TEXT; remote=False; description=}",
+                                                "1229:45237":  "@{key=231d2110b1fd9fae906db854b11c1b3724bd172a; name=Pretendard-r-14; styleType=TEXT; remote=False; description=}",
+                                                "1479:2879":  "@{key=a98fe8a11ae25038025de53dcc679f6a36906f67; name=www.mirrorfolio.com/Catskill White; styleType=FILL; remote=True; description=}",
+                                                "1229:45226":  "@{key=6414456cb806b21b2bb011984c4be5533919dda1; name=Pretendard-sb-18; styleType=TEXT; remote=False; description=}",
+                                                "1479:2890":  "@{key=1f4585de0a618d11dc1a425be5147ebe622938b8; name=www.mirrorfolio.com/Woodsmoke 60%; styleType=FILL; remote=True; description=}",
+                                                "1479:2916":  "@{key=31a83661a7b284ee2d7d6f8b2ecf012f6f26fbb3; name=www.mirrorfolio.com/Black; styleType=FILL; remote=True; description=}",
+                                                "1479:2881":  "@{key=c53638135b3ba7eaee1c7931907f5b8578f0c6fd; name=www.mirrorfolio.com/Mischka; styleType=FILL; remote=True; description=}",
+                                                "1229:45223":  "@{key=13f394fe314eeee4c6a5c9c141dfdc9c8df7ebe7; name=Pretendard-sb-24; styleType=TEXT; remote=False; description=}",
+                                                "1229:45227":  "@{key=971d4c799b38f370ceb727b687ca3638495c590f; name=Pretendard-sb-16; styleType=TEXT; remote=False; description=}",
+                                                "1479:2899":  "@{key=61f81201f8db492502613aa8bb2ce836a4265e82; name=www.mirrorfolio.com/Linear Black Nero Nero Black; styleType=FILL; remote=True; description=}",
+                                                "1479:2902":  "@{key=130b41b07018d048e42d1a8398d1330ef99934ff; name=www.mirrorfolio.com/Athens Gray; styleType=FILL; remote=True; description=}",
+                                                "1479:2904":  "@{key=905f6fadd8277f5ca1a1ab8284bb11937cda38c4; name=www.mirrorfolio.com/Gray Chateau; styleType=FILL; remote=True; description=}",
+                                                "1479:2901":  "@{key=d92733939d74f71004f7a661db77d6e9661d18e7; name=www.mirrorfolio.com/Ebony Clay; styleType=FILL; remote=True; description=}",
+                                                "1479:2900":  "@{key=d902736f579c17dfd4837683056af71a0c460b00; name=www.mirrorfolio.com/Pickled Bluewood; styleType=FILL; remote=True; description=}",
+                                                "1479:2915":  "@{key=c247ec3e42208d764800fcf60157b43544e2e2bb; name=www.mirrorfolio.com/Ebony; styleType=FILL; remote=True; description=}",
+                                                "1479:2876":  "@{key=94297216390883f09066b72a2749d2d1d452be8a; name=www.mirrorfolio.com/Cod Gray; styleType=FILL; remote=True; description=}",
+                                                "1497:7432":  "@{key=99732b3444bd42458be4b2095070ad27f3d77007; name=www.mirrorfolio.com/Nero; styleType=FILL; remote=True; description=}",
+                                                "1497:7435":  "@{key=1e8747c64521188bd5d02451eb2c4025d2da90f9; name=www.mirrorfolio.com/Santas Gray; styleType=FILL; remote=True; description=}",
+                                                "1497:7438":  "@{key=f888b9b944d158384936cc68de2a2c703ad691ba; name=www.mirrorfolio.com/Catskill White; styleType=FILL; remote=True; description=}",
+                                                "1229:45230":  "@{key=1fb825d3c5a50cc0c2a432ec9d97875b22d900d3; name=Pretendard-m-20; styleType=TEXT; remote=False; description=}",
+                                                "1497:7441":  "@{key=70e8fc0b17c555bc4fc37d503d7b695b04adadb5; name=www.mirrorfolio.com/Nero 50%; styleType=FILL; remote=True; description=}",
+                                                "1497:7433":  "@{key=45ebe3189c7b47601c58c5ead40195f63ff93279; name=www.mirrorfolio.com/Cod Gray; styleType=FILL; remote=True; description=}",
+                                                "1229:45225":  "@{key=92f553b0c7335ab337204c0cade220a744921d97; name=Pretendard-sb-20; styleType=TEXT; remote=False; description=}",
+                                                "1229:45229":  "@{key=bcf0d1c0926ed8150f0e3a6bda9952094a794615; name=Pretendard-sb-12; styleType=TEXT; remote=False; description=}",
+                                                "1229:45238":  "@{key=11c5c38cfac04fabd402cf21c4313077ec0016c2; name=Pretendard-r-12; styleType=TEXT; remote=False; description=}",
+                                                "1229:45232":  "@{key=57a452cac414010acc662b51049256b33e2788b8; name=Pretendard-m-16; styleType=TEXT; remote=False; description=}"
+                                            }
+                             }
+              }
+}

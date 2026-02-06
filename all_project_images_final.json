@@ -1,0 +1,719 @@
+﻿{
+    "name":  "노빌더 교육생 테스트",
+    "lastModified":  "2026-02-02T05:12:32Z",
+    "thumbnailUrl":  "https://s3-alpha.figma.com/thumbnails/4e644a39-b0f6-4854-872d-45e230321947?X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIAQ4GOSFWCVL7S5WWH%2F20260201%2Fus-west-2%2Fs3%2Faws4_request\u0026X-Amz-Date=20260201T120000Z\u0026X-Amz-Expires=604800\u0026X-Amz-SignedHeaders=host\u0026X-Amz-Signature=e7db69ef5542efdfac6a08e77642797880e328be0e524f97bd5eea5657eb5e8e",
+    "version":  "2315822335661631976",
+    "role":  "viewer",
+    "editorType":  "figma",
+    "linkAccess":  "inherit",
+    "nodes":  {
+                  "1479:3303":  {
+                                    "document":  {
+                                                     "id":  "1479:3303",
+                                                     "name":  "Container",
+                                                     "type":  "FRAME",
+                                                     "scrollBehavior":  "SCROLLS",
+                                                     "children":  [
+
+                                                                  ],
+                                                     "blendMode":  "PASS_THROUGH",
+                                                     "clipsContent":  false,
+                                                     "background":  [
+                                                                        {
+                                                                            "blendMode":  "NORMAL",
+                                                                            "type":  "SOLID",
+                                                                            "color":  {
+                                                                                          "r":  0.12486131489276886,
+                                                                                          "g":  0.12574501335620880,
+                                                                                          "b":  0.17788460850715637,
+                                                                                          "a":  1.0
+                                                                                      }
+                                                                        },
+                                                                        {
+                                                                            "blendMode":  "NORMAL",
+                                                                            "type":  "IMAGE",
+                                                                            "scaleMode":  "STRETCH",
+                                                                            "imageRef":  "98b08c6e59f0ec57ab173d85e188beb183aae48e",
+                                                                            "imageTransform":  [
+                                                                                                   [
+                                                                                                       1.0997618436813354,
+                                                                                                       0.0,
+                                                                                                       -0.047442995011806488
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       0.0,
+                                                                                                       1.3717564344406128,
+                                                                                                       -0.20360285043716431
+                                                                                                   ]
+                                                                                               ]
+                                                                        }
+                                                                    ],
+                                                     "fills":  [
+                                                                   {
+                                                                       "blendMode":  "NORMAL",
+                                                                       "type":  "SOLID",
+                                                                       "color":  {
+                                                                                     "r":  0.12486131489276886,
+                                                                                     "g":  0.12574501335620880,
+                                                                                     "b":  0.17788460850715637,
+                                                                                     "a":  1.0
+                                                                                 }
+                                                                   },
+                                                                   {
+                                                                       "blendMode":  "NORMAL",
+                                                                       "type":  "IMAGE",
+                                                                       "scaleMode":  "STRETCH",
+                                                                       "imageRef":  "98b08c6e59f0ec57ab173d85e188beb183aae48e",
+                                                                       "imageTransform":  [
+                                                                                              [
+                                                                                                  1.0997618436813354,
+                                                                                                  0.0,
+                                                                                                  -0.047442995011806488
+                                                                                              ],
+                                                                                              [
+                                                                                                  0.0,
+                                                                                                  1.3717564344406128,
+                                                                                                  -0.20360285043716431
+                                                                                              ]
+                                                                                          ]
+                                                                   }
+                                                               ],
+                                                     "strokes":  [
+
+                                                                 ],
+                                                     "cornerRadius":  30.0,
+                                                     "cornerSmoothing":  0.0,
+                                                     "strokeWeight":  1.0,
+                                                     "strokeAlign":  "INSIDE",
+                                                     "backgroundColor":  {
+                                                                             "r":  0.0,
+                                                                             "g":  0.0,
+                                                                             "b":  0.0,
+                                                                             "a":  0.0
+                                                                         },
+                                                     "layoutMode":  "VERTICAL",
+                                                     "counterAxisSizingMode":  "FIXED",
+                                                     "counterAxisAlignItems":  "CENTER",
+                                                     "primaryAxisAlignItems":  "CENTER",
+                                                     "layoutWrap":  "NO_WRAP",
+                                                     "absoluteBoundingBox":  {
+                                                                                 "x":  -5214.0,
+                                                                                 "y":  -10402.6269531250,
+                                                                                 "width":  280.0,
+                                                                                 "height":  190.50
+                                                                             },
+                                                     "absoluteRenderBounds":  {
+                                                                                  "x":  -5214.0,
+                                                                                  "y":  -10402.6269531250,
+                                                                                  "width":  280.0,
+                                                                                  "height":  190.50
+                                                                              },
+                                                     "constraints":  {
+                                                                         "vertical":  "TOP",
+                                                                         "horizontal":  "LEFT"
+                                                                     },
+                                                     "layoutAlign":  "STRETCH",
+                                                     "layoutGrow":  0.0,
+                                                     "layoutSizingHorizontal":  "FILL",
+                                                     "layoutSizingVertical":  "HUG",
+                                                     "effects":  [
+
+                                                                 ],
+                                                     "interactions":  [
+
+                                                                      ],
+                                                     "complexStrokeProperties":  {
+                                                                                     "strokeType":  "BASIC"
+                                                                                 }
+                                                 },
+                                    "components":  {
+
+                                                   },
+                                    "componentSets":  {
+
+                                                      },
+                                    "schemaVersion":  0,
+                                    "styles":  {
+
+                                               }
+                                },
+                  "1479:3315":  {
+                                    "document":  {
+                                                     "id":  "1479:3315",
+                                                     "name":  "Container",
+                                                     "type":  "FRAME",
+                                                     "scrollBehavior":  "SCROLLS",
+                                                     "children":  [
+
+                                                                  ],
+                                                     "blendMode":  "PASS_THROUGH",
+                                                     "clipsContent":  false,
+                                                     "background":  [
+                                                                        {
+                                                                            "blendMode":  "NORMAL",
+                                                                            "type":  "SOLID",
+                                                                            "color":  {
+                                                                                          "r":  0.12486131489276886,
+                                                                                          "g":  0.12574501335620880,
+                                                                                          "b":  0.17788460850715637,
+                                                                                          "a":  1.0
+                                                                                      }
+                                                                        },
+                                                                        {
+                                                                            "blendMode":  "NORMAL",
+                                                                            "type":  "IMAGE",
+                                                                            "scaleMode":  "STRETCH",
+                                                                            "imageRef":  "8009ef2cec095b6b9a915c3bee96aba5891cb4e2",
+                                                                            "imageTransform":  [
+                                                                                                   [
+                                                                                                       1.1320145130157471,
+                                                                                                       0.0,
+                                                                                                       -0.067306920886039734
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       0.0,
+                                                                                                       1.4119858741760254,
+                                                                                                       -0.21716371178627014
+                                                                                                   ]
+                                                                                               ]
+                                                                        }
+                                                                    ],
+                                                     "fills":  [
+                                                                   {
+                                                                       "blendMode":  "NORMAL",
+                                                                       "type":  "SOLID",
+                                                                       "color":  {
+                                                                                     "r":  0.12486131489276886,
+                                                                                     "g":  0.12574501335620880,
+                                                                                     "b":  0.17788460850715637,
+                                                                                     "a":  1.0
+                                                                                 }
+                                                                   },
+                                                                   {
+                                                                       "blendMode":  "NORMAL",
+                                                                       "type":  "IMAGE",
+                                                                       "scaleMode":  "STRETCH",
+                                                                       "imageRef":  "8009ef2cec095b6b9a915c3bee96aba5891cb4e2",
+                                                                       "imageTransform":  [
+                                                                                              [
+                                                                                                  1.1320145130157471,
+                                                                                                  0.0,
+                                                                                                  -0.067306920886039734
+                                                                                              ],
+                                                                                              [
+                                                                                                  0.0,
+                                                                                                  1.4119858741760254,
+                                                                                                  -0.21716371178627014
+                                                                                              ]
+                                                                                          ]
+                                                                   }
+                                                               ],
+                                                     "strokes":  [
+
+                                                                 ],
+                                                     "cornerRadius":  30.0,
+                                                     "cornerSmoothing":  0.0,
+                                                     "strokeWeight":  1.0,
+                                                     "strokeAlign":  "INSIDE",
+                                                     "backgroundColor":  {
+                                                                             "r":  0.0,
+                                                                             "g":  0.0,
+                                                                             "b":  0.0,
+                                                                             "a":  0.0
+                                                                         },
+                                                     "layoutMode":  "VERTICAL",
+                                                     "counterAxisSizingMode":  "FIXED",
+                                                     "counterAxisAlignItems":  "CENTER",
+                                                     "primaryAxisAlignItems":  "CENTER",
+                                                     "layoutWrap":  "NO_WRAP",
+                                                     "absoluteBoundingBox":  {
+                                                                                 "x":  -4878.0,
+                                                                                 "y":  -10402.6269531250,
+                                                                                 "width":  280.0,
+                                                                                 "height":  190.50
+                                                                             },
+                                                     "absoluteRenderBounds":  {
+                                                                                  "x":  -4878.0,
+                                                                                  "y":  -10402.6269531250,
+                                                                                  "width":  280.0,
+                                                                                  "height":  190.50
+                                                                              },
+                                                     "constraints":  {
+                                                                         "vertical":  "TOP",
+                                                                         "horizontal":  "LEFT_RIGHT"
+                                                                     },
+                                                     "layoutAlign":  "STRETCH",
+                                                     "layoutGrow":  0.0,
+                                                     "layoutSizingHorizontal":  "FILL",
+                                                     "layoutSizingVertical":  "HUG",
+                                                     "effects":  [
+
+                                                                 ],
+                                                     "interactions":  [
+
+                                                                      ],
+                                                     "complexStrokeProperties":  {
+                                                                                     "strokeType":  "BASIC"
+                                                                                 }
+                                                 },
+                                    "components":  {
+
+                                                   },
+                                    "componentSets":  {
+
+                                                      },
+                                    "schemaVersion":  0,
+                                    "styles":  {
+
+                                               }
+                                },
+                  "1479:3327":  {
+                                    "document":  {
+                                                     "id":  "1479:3327",
+                                                     "name":  "Container",
+                                                     "type":  "FRAME",
+                                                     "scrollBehavior":  "SCROLLS",
+                                                     "children":  [
+
+                                                                  ],
+                                                     "blendMode":  "PASS_THROUGH",
+                                                     "clipsContent":  false,
+                                                     "background":  [
+                                                                        {
+                                                                            "blendMode":  "NORMAL",
+                                                                            "type":  "SOLID",
+                                                                            "color":  {
+                                                                                          "r":  0.12486131489276886,
+                                                                                          "g":  0.12574501335620880,
+                                                                                          "b":  0.17788460850715637,
+                                                                                          "a":  1.0
+                                                                                      }
+                                                                        },
+                                                                        {
+                                                                            "blendMode":  "NORMAL",
+                                                                            "type":  "IMAGE",
+                                                                            "scaleMode":  "FILL",
+                                                                            "imageRef":  "260e88412f2eaaa862d96dbf67b37c16e0b3422d"
+                                                                        }
+                                                                    ],
+                                                     "fills":  [
+                                                                   {
+                                                                       "blendMode":  "NORMAL",
+                                                                       "type":  "SOLID",
+                                                                       "color":  {
+                                                                                     "r":  0.12486131489276886,
+                                                                                     "g":  0.12574501335620880,
+                                                                                     "b":  0.17788460850715637,
+                                                                                     "a":  1.0
+                                                                                 }
+                                                                   },
+                                                                   {
+                                                                       "blendMode":  "NORMAL",
+                                                                       "type":  "IMAGE",
+                                                                       "scaleMode":  "FILL",
+                                                                       "imageRef":  "260e88412f2eaaa862d96dbf67b37c16e0b3422d"
+                                                                   }
+                                                               ],
+                                                     "strokes":  [
+
+                                                                 ],
+                                                     "cornerRadius":  30.0,
+                                                     "cornerSmoothing":  0.0,
+                                                     "strokeWeight":  1.0,
+                                                     "strokeAlign":  "INSIDE",
+                                                     "backgroundColor":  {
+                                                                             "r":  0.0,
+                                                                             "g":  0.0,
+                                                                             "b":  0.0,
+                                                                             "a":  0.0
+                                                                         },
+                                                     "layoutMode":  "VERTICAL",
+                                                     "counterAxisSizingMode":  "FIXED",
+                                                     "counterAxisAlignItems":  "CENTER",
+                                                     "primaryAxisAlignItems":  "CENTER",
+                                                     "layoutWrap":  "NO_WRAP",
+                                                     "absoluteBoundingBox":  {
+                                                                                 "x":  -4542.0,
+                                                                                 "y":  -10402.6269531250,
+                                                                                 "width":  280.0,
+                                                                                 "height":  190.50
+                                                                             },
+                                                     "absoluteRenderBounds":  {
+                                                                                  "x":  -4542.0,
+                                                                                  "y":  -10402.6269531250,
+                                                                                  "width":  280.0,
+                                                                                  "height":  190.50
+                                                                              },
+                                                     "constraints":  {
+                                                                         "vertical":  "TOP",
+                                                                         "horizontal":  "LEFT_RIGHT"
+                                                                     },
+                                                     "layoutAlign":  "STRETCH",
+                                                     "layoutGrow":  0.0,
+                                                     "layoutSizingHorizontal":  "FILL",
+                                                     "layoutSizingVertical":  "HUG",
+                                                     "effects":  [
+
+                                                                 ],
+                                                     "interactions":  [
+
+                                                                      ],
+                                                     "complexStrokeProperties":  {
+                                                                                     "strokeType":  "BASIC"
+                                                                                 }
+                                                 },
+                                    "components":  {
+
+                                                   },
+                                    "componentSets":  {
+
+                                                      },
+                                    "schemaVersion":  0,
+                                    "styles":  {
+
+                                               }
+                                },
+                  "1479:3367":  {
+                                    "document":  {
+                                                     "id":  "1479:3367",
+                                                     "name":  "Container",
+                                                     "type":  "FRAME",
+                                                     "scrollBehavior":  "SCROLLS",
+                                                     "children":  [
+
+                                                                  ],
+                                                     "blendMode":  "PASS_THROUGH",
+                                                     "clipsContent":  false,
+                                                     "background":  [
+                                                                        {
+                                                                            "blendMode":  "NORMAL",
+                                                                            "type":  "SOLID",
+                                                                            "color":  {
+                                                                                          "r":  0.12486131489276886,
+                                                                                          "g":  0.12574501335620880,
+                                                                                          "b":  0.17788460850715637,
+                                                                                          "a":  1.0
+                                                                                      }
+                                                                        },
+                                                                        {
+                                                                            "blendMode":  "NORMAL",
+                                                                            "type":  "IMAGE",
+                                                                            "scaleMode":  "FILL",
+                                                                            "imageRef":  "650891294805b8116dcadd1d4b412038cd751663"
+                                                                        }
+                                                                    ],
+                                                     "fills":  [
+                                                                   {
+                                                                       "blendMode":  "NORMAL",
+                                                                       "type":  "SOLID",
+                                                                       "color":  {
+                                                                                     "r":  0.12486131489276886,
+                                                                                     "g":  0.12574501335620880,
+                                                                                     "b":  0.17788460850715637,
+                                                                                     "a":  1.0
+                                                                                 }
+                                                                   },
+                                                                   {
+                                                                       "blendMode":  "NORMAL",
+                                                                       "type":  "IMAGE",
+                                                                       "scaleMode":  "FILL",
+                                                                       "imageRef":  "650891294805b8116dcadd1d4b412038cd751663"
+                                                                   }
+                                                               ],
+                                                     "strokes":  [
+
+                                                                 ],
+                                                     "cornerRadius":  30.0,
+                                                     "cornerSmoothing":  0.0,
+                                                     "strokeWeight":  1.0,
+                                                     "strokeAlign":  "INSIDE",
+                                                     "backgroundColor":  {
+                                                                             "r":  0.0,
+                                                                             "g":  0.0,
+                                                                             "b":  0.0,
+                                                                             "a":  0.0
+                                                                         },
+                                                     "layoutMode":  "VERTICAL",
+                                                     "counterAxisSizingMode":  "FIXED",
+                                                     "counterAxisAlignItems":  "CENTER",
+                                                     "primaryAxisAlignItems":  "CENTER",
+                                                     "layoutWrap":  "NO_WRAP",
+                                                     "absoluteBoundingBox":  {
+                                                                                 "x":  -5214.0,
+                                                                                 "y":  -9930.6269531250,
+                                                                                 "width":  280.0,
+                                                                                 "height":  190.50
+                                                                             },
+                                                     "absoluteRenderBounds":  {
+                                                                                  "x":  -5214.0,
+                                                                                  "y":  -9930.6269531250,
+                                                                                  "width":  280.0,
+                                                                                  "height":  190.50
+                                                                              },
+                                                     "constraints":  {
+                                                                         "vertical":  "TOP",
+                                                                         "horizontal":  "LEFT_RIGHT"
+                                                                     },
+                                                     "layoutAlign":  "STRETCH",
+                                                     "layoutGrow":  0.0,
+                                                     "layoutSizingHorizontal":  "FILL",
+                                                     "layoutSizingVertical":  "HUG",
+                                                     "effects":  [
+
+                                                                 ],
+                                                     "interactions":  [
+
+                                                                      ],
+                                                     "complexStrokeProperties":  {
+                                                                                     "strokeType":  "BASIC"
+                                                                                 }
+                                                 },
+                                    "components":  {
+
+                                                   },
+                                    "componentSets":  {
+
+                                                      },
+                                    "schemaVersion":  0,
+                                    "styles":  {
+
+                                               }
+                                },
+                  "1479:3380":  {
+                                    "document":  {
+                                                     "id":  "1479:3380",
+                                                     "name":  "Container",
+                                                     "type":  "FRAME",
+                                                     "scrollBehavior":  "SCROLLS",
+                                                     "children":  [
+
+                                                                  ],
+                                                     "blendMode":  "PASS_THROUGH",
+                                                     "clipsContent":  false,
+                                                     "background":  [
+                                                                        {
+                                                                            "blendMode":  "NORMAL",
+                                                                            "type":  "SOLID",
+                                                                            "color":  {
+                                                                                          "r":  0.12486131489276886,
+                                                                                          "g":  0.12574501335620880,
+                                                                                          "b":  0.17788460850715637,
+                                                                                          "a":  1.0
+                                                                                      }
+                                                                        },
+                                                                        {
+                                                                            "blendMode":  "NORMAL",
+                                                                            "type":  "IMAGE",
+                                                                            "scaleMode":  "FILL",
+                                                                            "imageRef":  "600c99faa5e41e1ffbb679bbb5f48be80e500cef"
+                                                                        }
+                                                                    ],
+                                                     "fills":  [
+                                                                   {
+                                                                       "blendMode":  "NORMAL",
+                                                                       "type":  "SOLID",
+                                                                       "color":  {
+                                                                                     "r":  0.12486131489276886,
+                                                                                     "g":  0.12574501335620880,
+                                                                                     "b":  0.17788460850715637,
+                                                                                     "a":  1.0
+                                                                                 }
+                                                                   },
+                                                                   {
+                                                                       "blendMode":  "NORMAL",
+                                                                       "type":  "IMAGE",
+                                                                       "scaleMode":  "FILL",
+                                                                       "imageRef":  "600c99faa5e41e1ffbb679bbb5f48be80e500cef"
+                                                                   }
+                                                               ],
+                                                     "strokes":  [
+
+                                                                 ],
+                                                     "cornerRadius":  30.0,
+                                                     "cornerSmoothing":  0.0,
+                                                     "strokeWeight":  1.0,
+                                                     "strokeAlign":  "INSIDE",
+                                                     "backgroundColor":  {
+                                                                             "r":  0.0,
+                                                                             "g":  0.0,
+                                                                             "b":  0.0,
+                                                                             "a":  0.0
+                                                                         },
+                                                     "layoutMode":  "VERTICAL",
+                                                     "counterAxisSizingMode":  "FIXED",
+                                                     "counterAxisAlignItems":  "CENTER",
+                                                     "primaryAxisAlignItems":  "CENTER",
+                                                     "layoutWrap":  "NO_WRAP",
+                                                     "absoluteBoundingBox":  {
+                                                                                 "x":  -4542.0,
+                                                                                 "y":  -9930.6269531250,
+                                                                                 "width":  280.0,
+                                                                                 "height":  190.50
+                                                                             },
+                                                     "absoluteRenderBounds":  {
+                                                                                  "x":  -4542.0,
+                                                                                  "y":  -9930.6269531250,
+                                                                                  "width":  280.0,
+                                                                                  "height":  190.50
+                                                                              },
+                                                     "constraints":  {
+                                                                         "vertical":  "TOP",
+                                                                         "horizontal":  "LEFT_RIGHT"
+                                                                     },
+                                                     "layoutAlign":  "STRETCH",
+                                                     "layoutGrow":  0.0,
+                                                     "layoutSizingHorizontal":  "FILL",
+                                                     "layoutSizingVertical":  "HUG",
+                                                     "effects":  [
+
+                                                                 ],
+                                                     "interactions":  [
+
+                                                                      ],
+                                                     "complexStrokeProperties":  {
+                                                                                     "strokeType":  "BASIC"
+                                                                                 }
+                                                 },
+                                    "components":  {
+
+                                                   },
+                                    "componentSets":  {
+
+                                                      },
+                                    "schemaVersion":  0,
+                                    "styles":  {
+
+                                               }
+                                },
+                  "1479:3393":  {
+                                    "document":  {
+                                                     "id":  "1479:3393",
+                                                     "name":  "Container",
+                                                     "type":  "FRAME",
+                                                     "scrollBehavior":  "SCROLLS",
+                                                     "children":  [
+
+                                                                  ],
+                                                     "blendMode":  "PASS_THROUGH",
+                                                     "clipsContent":  false,
+                                                     "background":  [
+                                                                        {
+                                                                            "blendMode":  "NORMAL",
+                                                                            "type":  "SOLID",
+                                                                            "color":  {
+                                                                                          "r":  0.12486131489276886,
+                                                                                          "g":  0.12574501335620880,
+                                                                                          "b":  0.17788460850715637,
+                                                                                          "a":  1.0
+                                                                                      }
+                                                                        },
+                                                                        {
+                                                                            "blendMode":  "NORMAL",
+                                                                            "type":  "IMAGE",
+                                                                            "scaleMode":  "STRETCH",
+                                                                            "imageRef":  "db5dcaa79ac8c941b4b0f62751e64f84895ab95b",
+                                                                            "imageTransform":  [
+                                                                                                   [
+                                                                                                       0.98614495992660522,
+                                                                                                       0.0,
+                                                                                                       0.00084031186997890472
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       0.0,
+                                                                                                       1.2300397157669067,
+                                                                                                       -0.16680033504962921
+                                                                                                   ]
+                                                                                               ]
+                                                                        }
+                                                                    ],
+                                                     "fills":  [
+                                                                   {
+                                                                       "blendMode":  "NORMAL",
+                                                                       "type":  "SOLID",
+                                                                       "color":  {
+                                                                                     "r":  0.12486131489276886,
+                                                                                     "g":  0.12574501335620880,
+                                                                                     "b":  0.17788460850715637,
+                                                                                     "a":  1.0
+                                                                                 }
+                                                                   },
+                                                                   {
+                                                                       "blendMode":  "NORMAL",
+                                                                       "type":  "IMAGE",
+                                                                       "scaleMode":  "STRETCH",
+                                                                       "imageRef":  "db5dcaa79ac8c941b4b0f62751e64f84895ab95b",
+                                                                       "imageTransform":  [
+                                                                                              [
+                                                                                                  0.98614495992660522,
+                                                                                                  0.0,
+                                                                                                  0.00084031186997890472
+                                                                                              ],
+                                                                                              [
+                                                                                                  0.0,
+                                                                                                  1.2300397157669067,
+                                                                                                  -0.16680033504962921
+                                                                                              ]
+                                                                                          ]
+                                                                   }
+                                                               ],
+                                                     "strokes":  [
+
+                                                                 ],
+                                                     "cornerRadius":  30.0,
+                                                     "cornerSmoothing":  0.0,
+                                                     "strokeWeight":  1.0,
+                                                     "strokeAlign":  "INSIDE",
+                                                     "backgroundColor":  {
+                                                                             "r":  0.0,
+                                                                             "g":  0.0,
+                                                                             "b":  0.0,
+                                                                             "a":  0.0
+                                                                         },
+                                                     "layoutMode":  "VERTICAL",
+                                                     "counterAxisSizingMode":  "FIXED",
+                                                     "counterAxisAlignItems":  "CENTER",
+                                                     "primaryAxisAlignItems":  "CENTER",
+                                                     "layoutWrap":  "NO_WRAP",
+                                                     "absoluteBoundingBox":  {
+                                                                                 "x":  -4878.0,
+                                                                                 "y":  -9930.6269531250,
+                                                                                 "width":  280.0,
+                                                                                 "height":  190.50
+                                                                             },
+                                                     "absoluteRenderBounds":  {
+                                                                                  "x":  -4878.0,
+                                                                                  "y":  -9930.6269531250,
+                                                                                  "width":  280.0,
+                                                                                  "height":  190.50
+                                                                              },
+                                                     "constraints":  {
+                                                                         "vertical":  "TOP",
+                                                                         "horizontal":  "LEFT_RIGHT"
+                                                                     },
+                                                     "layoutAlign":  "STRETCH",
+                                                     "layoutGrow":  0.0,
+                                                     "layoutSizingHorizontal":  "FILL",
+                                                     "layoutSizingVertical":  "HUG",
+                                                     "effects":  [
+
+                                                                 ],
+                                                     "interactions":  [
+
+                                                                      ],
+                                                     "complexStrokeProperties":  {
+                                                                                     "strokeType":  "BASIC"
+                                                                                 }
+                                                 },
+                                    "components":  {
+
+                                                   },
+                                    "componentSets":  {
+
+                                                      },
+                                    "schemaVersion":  0,
+                                    "styles":  {
+
+                                               }
+                                }
+              }
+}

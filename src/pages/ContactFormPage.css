@@ -1,0 +1,263 @@
+.contact-form-page {
+  min-height: 100vh;
+  background-color: #0f1117;
+  color: #ffffff;
+}
+
+.contact-form-section {
+  width: 100%;
+  padding: 0;
+  background-color: #0f1117;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 200px;
+  padding-top: 100px;
+}
+
+.contact-form-container {
+  max-width: 1024px;
+  width: 100%;
+  padding: 0 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.contact-title {
+  font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 60px;
+  font-weight: 600;
+  font-style: normal;
+  letter-spacing: -1.5px;
+  line-height: 84px;
+  color: rgb(255, 255, 255);
+  margin: 0 0 16px 0;
+  text-align: left;
+  width: 100%;
+}
+
+.contact-subtitle {
+  font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: -0.55px;
+  line-height: 30.8px;
+  color: rgb(161, 161, 170);
+  margin: 0 0 16px 0;
+  text-align: left;
+  width: 100%;
+}
+
+.contact-subtitle-divider {
+  width: 100%;
+  height: 30px;
+  background-color: rgb(60, 135, 224);
+  border-radius: 10px;
+  margin: 0 0 24px 0;
+}
+
+.contact-form-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  width: 100%;
+  max-width: 1024px;
+}
+
+.form-group {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+
+.form-label {
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: -0.5px;
+  line-height: 28px;
+  color: rgb(248, 250, 252);
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+
+.form-input,
+.form-textarea {
+  width: 100%;
+  padding: 18px 14px;
+  background-color: rgb(13, 13, 13);
+  border: 1px solid rgb(30, 41, 59);
+  border-radius: 14px;
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: -0.45px;
+  line-height: 25.2px;
+  font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, sans-serif;
+  transition: border-color 0.3s ease;
+  box-sizing: border-box;
+}
+
+.form-input:focus,
+.form-textarea:focus {
+  outline: none;
+  border-color: rgb(60, 135, 224);
+  border-width: 1px;
+}
+
+.form-input::placeholder,
+.form-textarea::placeholder {
+  color: #666666;
+}
+
+.form-textarea {
+  resize: vertical;
+  min-height: 160px;
+}
+
+.submit-button {
+  width: auto;
+  padding: 20px 32px;
+  background-color: rgb(248, 250, 252);
+  color: rgb(15, 23, 42);
+  border: none;
+  border-radius: 20px;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: -0.45px;
+  line-height: 25.2px;
+  font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, sans-serif;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  margin-top: 8px;
+  align-self: flex-start;
+}
+
+.submit-button:hover {
+  opacity: 0.9;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.15);
+}
+
+.submit-button:active {
+  opacity: 0.8;
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.submit-button:disabled {
+  background-color: #666666;
+  cursor: not-allowed;
+  opacity: 0.7;
+}
+
+.submit-message {
+  margin-top: 16px;
+  padding: 12px 16px;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 500;
+  text-align: center;
+}
+
+.submit-message.success {
+  background-color: rgba(74, 222, 128, 0.1);
+  color: rgb(74, 222, 128);
+  border: 1px solid rgba(74, 222, 128, 0.3);
+}
+
+.submit-message.error {
+  background-color: rgba(239, 68, 68, 0.1);
+  color: rgb(239, 68, 68);
+  border: 1px solid rgba(239, 68, 68, 0.3);
+}
+
+/* 모바일 반응형 */
+@media (max-width: 768px) {
+  .contact-form-section {
+    padding: 40px 16px;
+    padding-top: 100px;
+  }
+
+  .contact-title {
+    font-size: 36px;
+  }
+
+  .contact-subtitle {
+    font-size: 16px;
+    margin-bottom: 32px;
+  }
+
+  .form-input,
+  .form-textarea {
+    padding: 14px;
+    font-size: 14px;
+  }
+
+  .submit-button {
+    padding: 14px 24px;
+    font-size: 14px;
+    align-self: center; /* 모바일에서는 가운데 정렬 */
+  }
+}
+
+@media (max-width: 375px) {
+  .contact-form-section {
+    padding-top: 80px;
+    padding: 80px 20px 0;
+  }
+
+  .contact-form-container {
+    padding: 0;
+    max-width: 100%;
+  }
+
+  .contact-title {
+    font-size: 24px;
+    line-height: 33.6px;
+    letter-spacing: -0.6px;
+    margin-bottom: 10px;
+  }
+
+  .contact-subtitle {
+    font-size: 14px;
+    line-height: 19.6px;
+    letter-spacing: -0.35px;
+    margin-bottom: 10px;
+  }
+
+  .contact-subtitle-divider {
+    height: 20px;
+    border-radius: 10px;
+    margin-bottom: 18px;
+  }
+
+  .form-label {
+    font-size: 16px;
+    line-height: 22.4px;
+    letter-spacing: -0.4px;
+    margin-bottom: 8px;
+  }
+
+  .form-input,
+  .form-textarea {
+    padding: 18px 14px;
+    font-size: 14px;
+    line-height: 19.6px;
+    letter-spacing: -0.35px;
+    border-radius: 10px;
+  }
+
+  .form-textarea {
+    min-height: 160px;
+  }
+
+  .submit-button {
+    padding: 18px 14px;
+    font-size: 12px;
+    line-height: 16.8px;
+    letter-spacing: -0.3px;
+    border-radius: 12px;
+    width: 100%;
+  }
+}
